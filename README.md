@@ -1,1 +1,1 @@
-# Lidemy-learning-blog
+# L學習紀錄
